@@ -1,6 +1,3 @@
-Based on your resume, here's a structured and detailed GitHub README:
-
----
 
 # Rahul Bhopte
 
